@@ -1,0 +1,744 @@
+[{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b8"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1f9fdd0d9530441cbb6a54ba44b04348",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "FIRSTSUCCESSFULTRXTYPE",
+  "value": "TransferToAccountRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b9"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "e412c55aac194b599e228ed9af15749b",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONDATE",
+  "value": 14020330
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ba"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "5935ee27088d4d5ea6f2c5d1f413ed9c",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONAMOUNT",
+  "value": 56383000
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bb"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "da3d9c62f6af45b99f4fcad4cf1d3915",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONTYPE",
+  "value": 33
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bc"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "19e79af7f3114e2aa99110050a85d36a",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "IS_ROLLBACK",
+  "value": false
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bd"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "7fbfbeab23324e3ab2375329bbe5b5e5",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "SEQUENCECOUNTER",
+  "value": 107592
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52be"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "c83b2ba26f554d3dbb33e2c3e2c96b20",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "MERCHANTCATEGORYCODE",
+  "value": 69011
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bf"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "65a6cef74c034e23ab879e6b08746d8e",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "LASTSUCCESSFULTRXTYPE",
+  "value": "WithdrawInCardAbsenceOneAgentRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c0"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "f086d6c5296e4dd092710a47fd7522af",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONAMOUNT",
+  "value": 96484000
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c1"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "82308528af1f4f26b5c4450848fc4c1e",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "RECBANKID",
+  "value": 5
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c2"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "79d5cc6f2add466b896e3364f2f7ce77",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONTYPENAME",
+  "value": "WithdrawInCardAbsenceTwoAgentRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c3"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "0b3a2aa10108452c919fc902027539c1",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "APPLIEDPINVALIDATIONTYPE",
+  "value": 1
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c4"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "14346cbe184d432283b170f4d22690d9",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "IS_REVERSE",
+  "value": false
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c5"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "936cd12413554839afe76bf0ebc2642d",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "SRC_CARDIDHASH",
+  "value": "e4121a20818a4e3084236d0835983a35"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c6"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "05741231070243c89ac50305f3be9576",
+  "ownerId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "TERMINALID",
+  "value": 19306
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c7"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "7edd632523a2465a9d41d0c3b7264a87",
+  "ownerId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "TestTerminalName"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c8"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "6bdf660fc44a47949d63222043954ad5",
+  "ownerId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "TERMINALID",
+  "value": 19321
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c9"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "e1bb916a0a80464e876bb0c471c780c1",
+  "ownerId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "CDM"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ca"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1f01717ce0d7414eb436bb5f78d271b9",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "BANKID",
+  "value": 1
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52cb"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "0d8c86d6b7974bf2b0b07adc2b7240a9",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONID",
+  "value": "100000000001"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52cc"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "de1efc9971f14ad4b990966c6637e469",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "WORKINGDATE",
+  "value": "2023-06-20"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52cd"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "b52be3fd637b44abbe2d27a22385bbc3",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "CARDTYPE",
+  "value": 6
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ce"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "d01f126ea54f4b488abb1e35231a7991",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "IS_REVERSE",
+  "value": false
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52cf"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "940427b54fab49e79dc1c61b7c3d03fa",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "CARDIDHASH",
+  "value": "83b77bfef4574ffa8b9ec9d5243cffed"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d0"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "f918fa41f3f54aee87229560965c194d",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "WORKINGDATE",
+  "value": "2023-06-20"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d1"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "3bab3c59f59e45e4b313ccc70805cb16",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONID",
+  "value": "100000000000"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d2"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "d5c8f82a70db40f3b7db10d7c380a828",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONTYPENAME",
+  "value": "TransferFrom_With_IdentifierRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d3"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "6e9fd9a15dfc4e3e9b75348f2f8fb88a",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "PIN2_STATE",
+  "value": 0
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d4"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "f388959c35e04efeb466cae7aa2f601a",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "CARDISSUEBANK",
+  "value": 500029
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d5"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "726be195f55c4bb7bb45fd154038d15a",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "LASTTRXTYPE",
+  "value": "PayaRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d6"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "12d8afa9e21245d887c1b75d3eb568ca",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "LASTSUCCESSFULTRXDATE",
+  "value": "2023-06-20"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d7"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "d6a2cbaeb6e2463aa123cf8b8470fd0a",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "LASTTRXTYPE",
+  "value": "WithdrawalVoucherRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d8"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "0a52dd04052346a6b127cdde4efe4818",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "FIRSTSUCCESSFULTRXDATE",
+  "value": 13980407
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52d9"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "927ce60b7861431f9d8887df75510562",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "CARDISSUEBANK",
+  "value": 502239
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52da"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "6b7e31647f8e4a748cf02558e2e2a928",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "PIN2_STATE",
+  "value": 0
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52db"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1a2b20387b3143ab87f0e15b0ac9fd96",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "SEQUENCECOUNTER",
+  "value": 108592
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52dc"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "94f2b73ab1674701a3e10d16c4020319",
+  "ownerId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "TransferFrom_With_IdentifierRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52dd"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1f371583665a4fef8cf32d80d3e945b0",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "FIRSTSUCCESSFULTRXDATE",
+  "value": 14010105
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52de"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "0db7f48eeeb743ceb6e461a735313984",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "FIRSTSUCCESSFULTRXTYPE",
+  "value": "TransferFrom_With_IdentifierRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52df"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1072ed7b40604d13a857030940a90bdd",
+  "ownerId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "TERMINALTYPE",
+  "value": 8
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e0"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "ac101323aec44174ab83de402f43e63a",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "IS_ROLLBACK",
+  "value": false
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e1"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "8097d043b2e045e991f64ba231773817",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "LASTSUCCESSFULTRXDATE",
+  "value": "2023-06-20"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e2"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "91f7828110844d8e951ef887b0346f6a",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "MERCHANTCATEGORYCODE",
+  "value": 69011
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e3"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "3ee4414b20294a0ab0db12cf1d0e22a8",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "SRC_CARDIDHASH",
+  "value": "83b77bfef4574ffa8b9ec9d5243cffed"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e4"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "17c6e5ef525742208f8ad092a5d3d444",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "CARDTYPE",
+  "value": 8
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e5"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "231d63bde3cc41a2ab8444837ab610c2",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "DEST_CARDIDHASH",
+  "value": "NULL"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e6"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "31e88ed51aa6490ba5ccc3e1bfb9a7b1",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "PIN2_VALIDATION_TYPE",
+  "value": "Fixed_And_Dynamic_Pin"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e7"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "4a5d6d13d33a40b783e0a0269a0024cf",
+  "ownerId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "TestTerminalName"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e8"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "b0364c65c3fe43899f9bb7b52550402b",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONTIME",
+  "value": 103016
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52e9"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "828402c01f194523857901145cb9d1ae",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "BANKID",
+  "value": 1
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ea"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "56f5f31a89084370b71eb31c3f42c869",
+  "ownerId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "TERMINALTYPE",
+  "value": 3
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52eb"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "938a98b94f85499586e1a9b3420b2cfc",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "LASTSUCCESSFULTRXTYPE",
+  "value": "TransferCardToAccountTo_With_IdentifierRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ec"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "fa3a3f52dfd5495c85787e9c1ff14c0d",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "APPLIEDPINVALIDATIONTYPE",
+  "value": 1
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ed"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "07b13851fbb64212b928e52454d3f977",
+  "ownerId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "Pinpad"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ee"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "402d5460bd92441f87f68f19af40ebbd",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONTYPE",
+  "value": 31
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ef"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "b68397ae80df497986addbfbbd27b848",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "RECBANKID",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f0"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "798f52b90b554ec8ad942a0399e8bbda",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "DEST_CARDIDHASH",
+  "value": "NULL"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f1"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "c80af83fbc7b449da9096ce521d7a1d4",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONDATE",
+  "value": 14020330
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f2"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "d9e5ad52c84c4803aa5f17e868541d6a",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "CARDIDHASH",
+  "value": "e4121a20818a4e3084236d0835983a35"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f3"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "423525e851d24dca9ff12a21946892bb",
+  "ownerId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "TERMINALTYPENAME",
+  "value": "WithdrawInCardAbsenceTwoAgentRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f4"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "53c357cd0b184689b34bf0189ea9edae",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONTIME",
+  "value": 103016
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f5"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "3cfd2ba26067434882e57a57a57a5107",
+  "ownerId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "PIN2_VALIDATION_TYPE",
+  "value": "Fixed"
+}]

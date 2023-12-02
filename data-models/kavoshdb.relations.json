@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f6"
+  },
+  "sourceId": "07221238d40d4fbba8d50d5467c8d6bf",
+  "typeURI": "APPEARED_IN",
+  "targetId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "classificationIdentifier": "TS",
+  "AI": 2,
+  "description": "SEND_MONEY",
+  "admin": 4,
+  "id": "06f74b9f270e430ca7ac9b7588b9f9d8",
+  "direction": "SourceToTarget"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f7"
+  },
+  "sourceId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "APPEARED_IN",
+  "targetId": "df12fd77453e4aba94f1744b2bb02574",
+  "classificationIdentifier": "TS",
+  "AI": 2,
+  "description": "SEND_MONEY",
+  "admin": 4,
+  "id": "caa1a643f3ca49f782c030d9313d80a0",
+  "direction": "SourceToTarget"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f8"
+  },
+  "sourceId": "0ee959d99fc8474aa4d9e553084367d2",
+  "typeURI": "APPEARED_IN",
+  "targetId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "classificationIdentifier": "TS",
+  "AI": 2,
+  "description": "MEMBER_OF",
+  "admin": 4,
+  "id": "b0849f466154426688e91e73ac9e212e",
+  "direction": "SourceToTarget"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52f9"
+  },
+  "sourceId": "40a674d7dafb42f9ac830173b199b20e",
+  "typeURI": "APPEARED_IN",
+  "targetId": "df12fd77453e4aba94f1744b2bb02574",
+  "classificationIdentifier": "TS",
+  "AI": 2,
+  "description": "MEMBER_OF",
+  "admin": 4,
+  "id": "2b3cf8bf81ea448d92953efa6a829cb0",
+  "direction": "SourceToTarget"
+}]

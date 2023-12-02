@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b8"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "1f9fdd0d9530441cbb6a54ba44b04348",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "FIRSTSUCCESSFULTRXTYPE",
+  "value": "TransferToAccountRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b9"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "e412c55aac194b599e228ed9af15749b",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONDATE",
+  "value": 14020330
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52ba"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "5935ee27088d4d5ea6f2c5d1f413ed9c",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONAMOUNT",
+  "value": 56383000
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bb"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "da3d9c62f6af45b99f4fcad4cf1d3915",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONTYPE",
+  "value": 33
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bc"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "19e79af7f3114e2aa99110050a85d36a",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "IS_ROLLBACK",
+  "value": false
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bd"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "7fbfbeab23324e3ab2375329bbe5b5e5",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "SEQUENCECOUNTER",
+  "value": 107592
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52be"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "c83b2ba26f554d3dbb33e2c3e2c96b20",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "MERCHANTCATEGORYCODE",
+  "value": 69011
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52bf"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "65a6cef74c034e23ab879e6b08746d8e",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "LASTSUCCESSFULTRXTYPE",
+  "value": "WithdrawInCardAbsenceOneAgentRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c0"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "f086d6c5296e4dd092710a47fd7522af",
+  "ownerId": "afaf5eae720d4d60aa1a1aad076412aa",
+  "typeURI": "TRANSACTIONAMOUNT",
+  "value": 96484000
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c1"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "82308528af1f4f26b5c4450848fc4c1e",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "RECBANKID",
+  "value": 5
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c2"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "79d5cc6f2add466b896e3364f2f7ce77",
+  "ownerId": "df12fd77453e4aba94f1744b2bb02574",
+  "typeURI": "TRANSACTIONTYPENAME",
+  "value": "WithdrawInCardAbsenceTwoAgentRq"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52c3"
+  },
+  "AI": 2,
+  "admin": 4,
+  "classificationIdentifier": "TS",
+  "id": "0b3a2aa10108452c919fc902027539c1",
+  "ownerId": "f29123703c3641238562d561f95bcbb9",
+  "typeURI": "APPLIEDPINVALIDATIONTYPE",
+  "value": 1
+}]

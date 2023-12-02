@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b2"
+  },
+  "typeURI": "ترمینال",
+  "displayName": "TERMINAL",
+  "id": "0ee959d99fc8474aa4d9e553084367d2"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b3"
+  },
+  "typeURI": "ترمینال",
+  "displayName": "TERMINAL",
+  "id": "40a674d7dafb42f9ac830173b199b20e"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b4"
+  },
+  "typeURI": "کارت",
+  "displayName": "SOURCE_CARD",
+  "id": "07221238d40d4fbba8d50d5467c8d6bf"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b5"
+  },
+  "typeURI": "تراکنش-مالی",
+  "displayName": "TRANSACTION",
+  "id": "df12fd77453e4aba94f1744b2bb02574"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b6"
+  },
+  "typeURI": "تراکنش-مالی",
+  "displayName": "TRANSACTION",
+  "id": "afaf5eae720d4d60aa1a1aad076412aa"
+},
+{
+  "_id": {
+    "$oid": "6534ed6edca19353abaf52b7"
+  },
+  "typeURI": "کارت",
+  "displayName": "SOURCE_CARD",
+  "id": "f29123703c3641238562d561f95bcbb9"
+}]
